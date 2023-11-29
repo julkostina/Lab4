@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\lab_work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\lab_work4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\lab_work4.AssemblyInfo.cs
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\lab_work4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab_work4\lab_work4\bin\Debug\net6.0\lab_work4.exe
+C:\Users\User\source\repos\lab_work4\lab_work4\bin\Debug\net6.0\lab_work4.deps.json
+C:\Users\User\source\repos\lab_work4\lab_work4\bin\Debug\net6.0\lab_work4.runtimeconfig.json
+C:\Users\User\source\repos\lab_work4\lab_work4\bin\Debug\net6.0\lab_work4.dll
+C:\Users\User\source\repos\lab_work4\lab_work4\bin\Debug\net6.0\lab_work4.pdb
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\lab_work4.dll
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\refint\lab_work4.dll
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\lab_work4.pdb
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\lab_work4.genruntimeconfig.cache
+C:\Users\User\source\repos\lab_work4\lab_work4\obj\Debug\net6.0\ref\lab_work4.dll
